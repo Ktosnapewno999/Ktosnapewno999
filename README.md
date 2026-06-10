@@ -4,7 +4,11 @@
   <img src="https://api.boot.dev/v1/users/public/482a22ae-ca40-4ab5-a828-d9f7339c1cfc/thumbnail" >
 </p>
 
-I'm Krzysztof 15 yo Im learning python, c++, fusion360 and robotics.
+I'm Krzysztof 15 yo, 
+I’m currently learning python, c++, fusion360 and robotics.
+
+ps
+Google wants to lock down android keepandroidopen.org
 
 <!--
 **Ktosnapewno999/Ktosnapewno999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
