@@ -8,7 +8,7 @@ I'm Krzysztof 15 yo,
 I’m currently learning python, c++, fusion360 and robotics.
 
 ps
-Google wants to lock down android check keepandroidopen.org and add your signature here https://c.org/jJLXn5MPjV
+Google wants to lock down android check https://keepandroidopen.org and add your signature here https://c.org/jJLXn5MPjV
 
 <!--
 **Ktosnapewno999/Ktosnapewno999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
