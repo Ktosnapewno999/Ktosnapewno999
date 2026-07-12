@@ -4,7 +4,7 @@
   <img src="https://api.boot.dev/v1/users/public/482a22ae-ca40-4ab5-a828-d9f7339c1cfc/thumbnail" >
 </p>
 
-I'm Krzysztof 15 yo, 
+I'm Krzysztof 16 yo, 
 I’m currently learning python, c++, fusion360 and robotics.
 
 ps
